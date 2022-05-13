@@ -1,13 +1,13 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: ttt
+  name: zzz
   annotations:
     dev.okteto.com/auto-ingress: "true"
 spec:
   type: ClusterIP  
   ports:
-  - name: "ttt"
+  - name: "zzz"
     port: 8080
   selector:
-    app: ttt
+    app: zzz
