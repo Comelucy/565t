@@ -10,7 +10,7 @@
 
     "Vless_UUID": {
       "description": "Vless uuid（http://www.uuid.online/在线生成）",
-      "value": "5c301bb8-6c77-41a0-a606-4ba11bbab084"
+      "value": "26f9f593-4274-463a-9ea3-8c52ab8948ed"
     },
 
     "Vless_Path": {
@@ -19,7 +19,7 @@
     },
     "Vmess_UUID": {
       "description": "Vmess uuid（http://www.uuid.online/在线生成）",
-      "value": "5c301bb8-6c77-41a0-a606-4ba11bbab084"
+      "value": "26f9f593-4274-463a-9ea3-8c52ab8948ed"
     },
 
     "Vmess_Path": {
@@ -37,7 +37,7 @@
        "value": "latest"
      }
   },
-  "website": "",
-  "repository": "",
+  "website": "https://github.com/Comelucy/565t",
+  "repository": "https://github.com/Comelucy/565t",
   "stack": "container"
  }
